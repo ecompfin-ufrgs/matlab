@@ -2,7 +2,7 @@
 
 ## Sumário
 
-1. [Definição](definicao.md)
+1. [Definição da linguagem](definicao.md)
 2. [Modelo de execução](execucao.md)
 3. [Modelo de dados](dados.md)
 4. [Programação sequencial](sequencial.md)
