@@ -1,21 +1,18 @@
 
 # Modelo de dados
 
-## Tipos numéricos
+A implementação Octave da linguagem MatLab possui nativamente os seguintes tipos e estruturas de dados:
 
-## Tipo Logical (booleano)
+- Tipos numéricos
 
-## Tipos de texto
+- Tipo Logical (booleano)
 
-### Char
+- Tipos de texto
 
+a. Char
+b. String
 
-### String
-
-## Estruturas de dados
-
-### Cell Arrays
-
-## Structures
-
-## Tables
+- Estruturas de dados
+a. Cell Arrays
+b. Structures
+c. Tables
