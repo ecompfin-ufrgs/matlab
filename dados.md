@@ -8,10 +8,10 @@ A implementação Octave da linguagem MatLab possui nativamente os seguintes tip
 - Tipo Logical (booleano)
 
 - Tipos de texto
-1. Char
-2. String
+  1. Char
+  2. String
 
 - Estruturas de dados
-1. Cell Arrays
-2. Structures
-3. Tables
+  1. Cell Arrays
+  2. Structures
+  3. Tables
