@@ -1,4 +1,4 @@
-# Introdução à programação com Octave
+# Introdução à programação com MATLAB
 
 ## [Sumário](index.md)
 
